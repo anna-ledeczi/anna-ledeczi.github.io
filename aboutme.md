@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Geologist and Marine Geophysicist 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a fourth-year Ph.D. Candidate working with Harold Tobin in the Fault Structure, Stress, & Tectonics group at the University of Washington. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am interested in accretionary wedges at subduction zones—specifically, their evolution, faulting, and ability to cost coseismic slip—and the resulting hazards to coastal communities. I bridge using geophysical methods like marine active-source seismology and field-based approaches like geological mapping, to approach these issues from a variety of timescales, spatial scales, and perspectives.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
