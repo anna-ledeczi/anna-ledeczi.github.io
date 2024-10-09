@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Geologist and Marine Geophysicist 
-cover-img: ![anna2](https://github.com/user-attachments/assets/8196cc39-5a1b-4b97-a9c0-7e00221ca1be)
+cover-img: assets/img/anna2.JPEG
 ---
 
 
