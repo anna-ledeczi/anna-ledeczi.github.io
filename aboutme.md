@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Geologist and Marine Geophysicist 
-cover-img: assets/img/anna2.JPEG
+cover-img: assets/img/IMG_2922.jpeg
 ---
 
 
