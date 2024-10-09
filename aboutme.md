@@ -2,9 +2,8 @@
 layout: page
 title: About me
 subtitle: Geologist and Marine Geophysicist 
-cover-img: assets/img/anna2.JPEG
+cover-img: ![anna2](https://github.com/user-attachments/assets/8196cc39-5a1b-4b97-a9c0-7e00221ca1be)
 ---
-![anna2](https://github.com/user-attachments/assets/8196cc39-5a1b-4b97-a9c0-7e00221ca1be)
 
 
 I am a fourth-year Ph.D. Candidate working with Harold Tobin in the Fault Structure, Stress, & Tectonics group at the University of Washington. 
