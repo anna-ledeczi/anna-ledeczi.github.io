@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Outreach and DEI work
+title: Outreach and DEI
 ---
 ### Seismica Diamond Open Access Journal
 
