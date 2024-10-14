@@ -13,7 +13,7 @@ permalink: /gallery/
 <div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
   <div style="text-align: center;">
-    <img src="/assets/img/IMG_8971.jpeg" alt="Helicopter drop off for field work at Lake of the Gods, Olympic National Park." style="width: 100%; height: auto;" />
+    <img src="/assets/img/IMG_8971.JPG" alt="Helicopter drop off for field work at Lake of the Gods, Olympic National Park." style="width: 100%; height: auto;" />
     <p> Helicopter drop off for field work at Lake of the Gods, Olympic National Park.</p>
   </div>
 
@@ -28,7 +28,7 @@ permalink: /gallery/
   </div>
 
    <div style="text-align: center;">
-    <img src="/assets/img/IMG_4189.jpeg" alt="Crossing Blue Glacier, Olympic National Park." style="width: 100%; height: auto;" />
+    <img src="/assets/img/IMG_4189.JPG" alt="Crossing Blue Glacier, Olympic National Park." style="width: 100%; height: auto;" />
     <p>Crossing Blue Glacier, Olympic National Park.</p>
   </div>
  
