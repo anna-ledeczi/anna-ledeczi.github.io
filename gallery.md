@@ -4,7 +4,7 @@ title: Gallery
 permalink: /gallery/
 ---
 <div style="text-align: center;">
-Snow Dome and Lake of the Gods, Olympic National Park, Washington. 
+<strong>Snow Dome and Lake of the Gods, Olympic National Park, Washington:</strong>
 </div>
 
 <div style="text-align: center;">
@@ -57,7 +57,7 @@ Snow Dome and Lake of the Gods, Olympic National Park, Washington.
 
 
  <div style="text-align: center;">
-Other assorted photos.  
+<strong>Other assorted photos:</strong>
 </div>
  <div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
