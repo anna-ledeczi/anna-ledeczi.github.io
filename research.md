@@ -13,6 +13,11 @@ My Ph.D. focuses on the architecture and evolution of the **Cascadia subduction 
 
 • In my subsequent work, I am using the active and inactive splay faults I identified to inform **structural modeling** of seismic reflection data to better understand the **sequence of fault activation** during the evolution of the accretionary wedge. Since Cascadia is a clastic sediment rich subduction zone, we want to understand the influence of high sedimentation rates offshore Washington on suppressing active faulting in the inner wedge. 
 
+  <div style="text-align: center;">
+    <img src="/assets/img/Fig10_slip_cartoon.png" alt="Proposed model of coseismic slip in the LVZ during megathrust events. The décollement hosts large slip to the toe of the accretionary wedge, inducing slip on the frontal thrust and other splay faults in the active domain (colored red). The inactive domain faults, including at the inner-outer wedge boundary, do not slip, and the displacement is efficiently transferred up the megathrust to the toe region." style="width: 100%; height: auto;" />
+    <p>Proposed model of coseismic slip in the LVZ during megathrust events. The décollement hosts large slip to the toe of the accretionary wedge, inducing slip on the frontal thrust and other splay faults in the active domain (colored red). The inactive domain faults, including at the inner-outer wedge boundary, do not slip, and the displacement is efficiently transferred up the megathrust to the toe region.</p>
+  </div>
+
 **The Olympic Subduction Complex, Olympic National Park**
 
 What geologic fault zone processes and wall rock characteristics allow Cascadia to host giant megathrust earthquakes? What brittle and ductile deformation processes occur deep within the clastic sedimentation dominated accretionary wedge during subduction to seismogenic zone conditions and exhumation?
