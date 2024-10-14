@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Outreach and DEI work
-subtitle: I am involved with some initiatives outside of my research.
 ---
 ### Seismica Diamond Open Access Journal
 
