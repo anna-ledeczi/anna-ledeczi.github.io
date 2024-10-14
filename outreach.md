@@ -16,7 +16,7 @@ From 2022 to 2024, I volunteered as a duty seismologist for the Pacific Northwes
 
 ### Rockin' Out
 
-I served a two-year term as graduate student coordinator of [Rockin' Out](https://rockinoutuw.wixsite.com/home), a K-12 outreach group that has been housed in the Department of Earth & Space Sciences at the University of Washington for  15 years. We target underserved K-12 communities in Seattle and around Washington state with geoscience curriculum. We focus particularly on developing a place-based curriculum on local natural hazards, such as earthquakes and volcanos, to help students learn about their local environment. We work to emphasize potential careers for geoscience majors to combat negative perceptions of the field. 
+I served a two-year term as graduate student coordinator of [Rockin' Out](https://rockinoutuw.wixsite.com/home), a K-12 outreach group that has been housed in the Department of Earth & Space Sciences at the University of Washington for  15 years. We target underserved K-12 communities in Seattle and around Washington state with geoscience curriculum. We focus particularly on developing a place-based curriculum on local natural hazards, such as earthquakes and volcanoes, to help students learn about their local environment. We work to emphasize potential careers for geoscience majors to combat negative perceptions of the field. 
 
 ### Other
 
