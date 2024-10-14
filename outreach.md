@@ -20,8 +20,9 @@ I served a two-year term as graduate student coordinator of [Rockin' Out](https:
 
 ### Other
 
+2024 – present:    Graduate Student Representative to the Faculty, ESS, University of Washington
+
 2022 – 2023:    Graduate Student Representative, Diversity, Equity, and Inclusion Committee, ESS, University of Washington
 
-2024 – present:    Graduate Student Representative to the Faculty, ESS, University of Washington
 
 
