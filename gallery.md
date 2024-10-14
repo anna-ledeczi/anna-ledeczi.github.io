@@ -11,6 +11,27 @@ permalink: /gallery/
 
 
 <div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+
+  <div style="text-align: center;">
+    <img src="/assets/img/IMG_8971.jpeg" alt="Helicopter drop off for field work at Lake of the Gods, Olympic National Park." style="width: 100%; height: auto;" />
+    <p> Helicopter drop off for field work at Lake of the Gods, Olympic National Park.</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/img/C11A7AAD-CDA7-4642-927D-507DCF83B3A5.JPG" alt="Anna Ledeczi and Harold Tobin by the GPS station atop Snow Dome, Olympic National Park." style="width: 100%; height: auto;" />
+    <p>Anna Ledeczi and Harold Tobin by the GPS station atop Snow Dome, Olympic National Park. </p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/img/IMG_1195.jpeg" alt="Sampling soft clay fault gouge in a fault strand at Lake of the Gods, Olympic National Park." style="width: 100%; height: auto;" />
+    <p>Sampling soft clay fault gouge in a fault strand at Lake of the Gods, Olympic National Park. </p>
+  </div>
+
+   <div style="text-align: center;">
+    <img src="/assets/img/IMG_4189.jpeg" alt="Crossing Blue Glacier, Olympic National Park." style="width: 100%; height: auto;" />
+    <p>Crossing Blue Glacier, Olympic National Park.</p>
+  </div>
+ 
     
   <div style="text-align: center;">
     <img src="/assets/img/IMG_2338.jpeg" alt="Anna Ledeczi and Madeleine Lucas in front of the R/V Swift Responder in Astoria, OR." style="width: 100%; height: auto;" />
@@ -36,6 +57,22 @@ permalink: /gallery/
     <img src="/assets/img/IMG_1143.jpeg" alt="FaSST lab group (Anna Ledeczi, Harold Tobin, Alysa Fintel, and Madeleine Lucas) on a field trip to see tsunami deposits at Willapa Bay, WA." style="width: 100%; height: auto;" />
     <p>FaSST lab group (Anna Ledeczi, Harold Tobin, Alysa Fintel, and Madeleine Lucas) on a field trip to see tsunami deposits at Willapa Bay, WA.</p>
   </div>
+
+   <div style="text-align: center;">
+    <img src="/assets/img/DSC_1503.jpeg" alt="Searching for tsunami deposits at Willapa Bay, WA." style="width: 100%; height: auto;" />
+    <p>Searching for tsunami deposits at Willapa Bay, WA.</p>
+  </div> 
+
+   <div style="text-align: center;">
+    <img src="/assets/img/IMG_1156.JPG" alt="The Cascadia 1700 ~M9 tsunami deposit." style="width: 100%; height: auto;" />
+    <p>The Cascadia 1700 ~M9 tsunami deposit.</p>
+  </div> 
+
+   <div style="text-align: center;">
+    <img src="/assets/img/IMG_5214.JPG" alt="The Cascadia 1700 ~M9 tsunami deposit." style="width: 100%; height: auto;" />
+    <p>The Cascadia 1700 ~M9 tsunami deposit.</p>
+  </div> 
+
 
   <div style="text-align: center;">
     <img src="/assets/img/IMG_7618.jpeg" alt="Sophie Johnson and Anna Ledeczi atop a thrust sheet in Sun River Canyon, MT." style="width: 100%; height: auto;" />
