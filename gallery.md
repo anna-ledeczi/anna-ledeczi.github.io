@@ -3,8 +3,9 @@ layout: page
 title: Gallery 
 permalink: /gallery/
 ---
-
+<div style="text-align: center;">
 Snow Dome and Lake of the Gods, Olympic National Park, Washington. 
+</div>
 
 <div style="text-align: center;">
     <img src="/assets/img/anna2.JPEG" alt="Lake of the Gods, Olympics. Topographic gullies are prominent linear fault strands contained in tectonic mélange." style="width: 100%; height: auto;" />
@@ -54,8 +55,12 @@ Snow Dome and Lake of the Gods, Olympic National Park, Washington.
 
 </div>
 
- 
-    
+
+ <div style="text-align: center;">
+Other assorted photos.  
+</div>
+ <div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+
   <div style="text-align: center;">
     <img src="/assets/img/IMG_2338.jpeg" alt="Anna Ledeczi and Madeleine Lucas in front of the R/V Swift Responder in Astoria, OR." style="width: 100%; height: auto;" />
     <p>Anna Ledeczi and Madeleine Lucas in front of the R/V Swift Responder in Astoria, OR.</p>
@@ -102,7 +107,29 @@ Snow Dome and Lake of the Gods, Olympic National Park, Washington.
     <p>Sophie Johnson and Anna Ledeczi atop a thrust sheet in Sun River Canyon, MT.</p>
   </div>
 
+  <div style="text-align: center;">
+    <img src="/assets/img/IMG_6168.jpeg" alt="Anna Ledeczi and Madeleine Lucas completed a three month internship at the USGS Pacific Coastal and Marine Science Center in Santa Cruz, CA, under the supervision of Janet Watt." style="width: 100%; height: auto;" />
+    <p>Anna Ledeczi and Madeleine Lucas completed a three month internship at the USGS Pacific Coastal and Marine Science Center in Santa Cruz, CA, under the supervision of Janet Watt.</p>
+
+  <div style="text-align: center;">
+    <img src="/assets/img/IMG_7223.jpeg" alt="Anna Ledeczi and Harold Tobin upon Anna's successful completion of her general exam." style="width: 100%; height: auto;" />
+    <p>Anna Ledeczi and Harold Tobin upon Anna's successful completion of her general exam.</p>
+  </div>
+
 </div>
 
+<div class="gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 20px;">
+
+  <div style="text-align: center;">
+    <img src="/assets/img/IMG_2621.jpeg" alt="Anna Ledeczi and Madeleine Lucas supervising collection of chirp data aboard the R/V Swift Responder." style="width: 100%; height: auto;" />
+    <p>Anna Ledeczi and Madeleine Lucas supervising collection of chirp data aboard the R/V Swift Responder.</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/img/IMG_2621.jpeg" alt="Anna Ledeczi, Madeleine Lucas, and Audrey Dunham pose next to a fold near the Golden Gate Bridge, San Francisco, CA." style="width: 100%; height: auto;" />
+    <p>Anna Ledeczi, Madeleine Lucas, and Audrey Dunham pose next to a fold near the Golden Gate Bridge, San Francisco, CA.</p>
+  </div>
+
+</div>
 
   
