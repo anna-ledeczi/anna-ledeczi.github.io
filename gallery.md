@@ -101,12 +101,6 @@ Other assorted photos.
     <p>The Cascadia 1700 ~M9 tsunami deposit.</p>
   </div> 
 
-
-  <div style="text-align: center;">
-    <img src="/assets/img/IMG_7618.jpeg" alt="Sophie Johnson and Anna Ledeczi atop a thrust sheet in Sun River Canyon, MT." style="width: 100%; height: auto;" />
-    <p>Sophie Johnson and Anna Ledeczi atop a thrust sheet in Sun River Canyon, MT.</p>
-  </div>
-
   <div style="text-align: center;">
     <img src="/assets/img/IMG_6168.jpeg" alt="Anna Ledeczi and Madeleine Lucas completed a three month internship at the USGS Pacific Coastal and Marine Science Center in Santa Cruz, CA, under the supervision of Janet Watt." style="width: 100%; height: auto;" />
     <p>Anna Ledeczi and Madeleine Lucas completed a three month internship at the USGS Pacific Coastal and Marine Science Center in Santa Cruz, CA, under the supervision of Janet Watt.</p>
@@ -118,17 +112,11 @@ Other assorted photos.
 
 </div>
 
-<div class="gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 20px;">
-
   <div style="text-align: center;">
     <img src="/assets/img/IMG_2621.jpeg" alt="Anna Ledeczi and Madeleine Lucas supervising collection of chirp data aboard the R/V Swift Responder." style="width: 100%; height: auto;" />
     <p>Anna Ledeczi and Madeleine Lucas supervising collection of chirp data aboard the R/V Swift Responder.</p>
   </div>
 
-  <div style="text-align: center;">
-    <img src="/assets/img/IMG_2621.jpeg" alt="Anna Ledeczi, Madeleine Lucas, and Audrey Dunham pose next to a fold near the Golden Gate Bridge, San Francisco, CA." style="width: 100%; height: auto;" />
-    <p>Anna Ledeczi, Madeleine Lucas, and Audrey Dunham pose next to a fold near the Golden Gate Bridge, San Francisco, CA.</p>
-  </div>
 
 </div>
 
