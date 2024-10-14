@@ -12,7 +12,7 @@ I am the student representative for the GSA Structural Geology & Tectonics Divis
 
 ### Pacific Northwest Seismic Network
 
-From 2022 to 2024, I volunteered as a duty seismologist for the Pacific Northwest Seismic Network [Pacific Northwest Seismic Network](pnsn.org) to assist with earthquake response. As a duty seismologist, I was responsible for responding to alert earthquakes M>2.95 for one week periods every couple months. 
+From 2022 to 2024, I volunteered as a duty seismologist for the Pacific Northwest Seismic Network [Pacific Northwest Seismic Network](pnsn.org) to assist with earthquake response. As a duty seismologist, I was responsible for responding to alert earthquakes M>2.95 in Washington, Oregon, and Northern California for one week periods every couple months. 
 
 ### Rockin' Out
 
