@@ -37,7 +37,7 @@ permalink: /art/
   </div>
   
   <div style="text-align: center;">
-    <img src="/assets/img/IMG_2179.jpeg" alt="Sunrise Skort from JessiLous Patterns. Made from red gingham from Blackbird Fabrics. Backing is a red linen." style="width: 100%; height: auto;" />
+    <img src="/assets/img/IMG_2179.jpg" alt="Sunrise Skort from JessiLous Patterns. Made from red gingham from Blackbird Fabrics. Backing is a red linen." style="width: 100%; height: auto;" />
     <p>Sunrise Skort from JessiLous Patterns. Made from red gingham from Blackbird Fabrics. Backing is a red linen. Finished May 2025. </p>
   </div>
 
