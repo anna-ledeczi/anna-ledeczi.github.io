@@ -31,5 +31,15 @@ permalink: /art/
     <p>Pajamas set made from Lightweight Cotton Lawn from Blackbird Fabrics. Top is the Olya Shirt from Paper Theory. I added piping to the sleeve, back, and front yoke seams. Pants are the Pomona Pants from Anna Allen. Finished May 2025. </p>
   </div>
 
+  <div style="text-align: center;">
+    <img src="/assets/img/IMG_1381.jpeg" alt="Men's patchwork button-up made from other men's shirts thrifted at Goodwill. Pattern is the Common Stitch Button Up." style="width: 100%; height: auto;" />
+    <p>Men's patchwork button-up made from other men's shirts thrifted at Goodwill. Pattern is the Common Stitch Button Up. Finished March 2025. </p>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="/assets/img/IMG_2179.jpeg" alt="Sunrise Skort from JessiLous Patterns. Made from red gingham from Blackbird Fabrics. Backing is a red linen." style="width: 100%; height: auto;" />
+    <p>Sunrise Skort from JessiLous Patterns. Made from red gingham from Blackbird Fabrics. Backing is a red linen. Finished May 2025. </p>
+  </div>
+
   
 
