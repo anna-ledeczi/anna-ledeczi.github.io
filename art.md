@@ -32,7 +32,7 @@ permalink: /art/
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/img/IMG_1381.jpeg" alt="Men's patchwork button-up made from other men's shirts thrifted at Goodwill. Pattern is the Common Stitch Button Up." style="width: 100%; height: auto;" />
+    <img src="/assets/img/IMG_1381.jpg" alt="Men's patchwork button-up made from other men's shirts thrifted at Goodwill. Pattern is the Common Stitch Button Up." style="width: 100%; height: auto;" />
     <p>Men's patchwork button-up made from other men's shirts thrifted at Goodwill. Pattern is the Common Stitch Button Up. Finished March 2025. </p>
   </div>
   
