@@ -17,7 +17,7 @@ permalink: /art/
 
 
   <div style="text-align: center;">
-    <img src="/assets/img/IMG_8696.JPG" alt="Pattern is the Damsel Dress from Roberts Wood. Made in black linen." style="width: 100%; height: auto;" />
+    <img src="/assets/img/IMG_8698.JPG" alt="Pattern is the Damsel Dress from Roberts Wood. Made in black linen." style="width: 100%; height: auto;" />
     <p>Pattern is the Damsel Dress from Roberts Wood. Made in black linen. Finished June 2024.</p>
   </div>
 
