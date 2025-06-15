@@ -21,7 +21,15 @@ permalink: /art/
     <p>Pattern is the Damsel Dress from Roberts Wood. Made in black linen. Finished June 2024.</p>
   </div>
 
+  <div style="text-align: center;">
+    <img src="/assets/img/IMG_7339.jpeg" alt="Pattern is the Ilford Jacket from Friday Pattern Company. Made in blue cotton twill with lime green pockets. Finished November 2024." style="width: 100%; height: auto;" />
+    <p>Pattern is the Ilford Jacket from Friday Pattern Company. Made in blue cotton twill with lime green pockets. Finished November 2024.</p>
+  </div>
 
+  <div style="text-align: center;">
+    <img src="/assets/img/IMG_1958.jpeg" alt="Pajamas set made from Lightweight Cotton Lawn from Blackbird Fabrics. Top is the Olya Shirt from Paper Theory. I added piping to the sleeve, back, and front yoke seams. Pants are the Pomona Pants from Anna Allen." style="width: 100%; height: auto;" />
+    <p>Pajamas set made from Lightweight Cotton Lawn from Blackbird Fabrics. Top is the Olya Shirt from Paper Theory. I added piping to the sleeve, back, and front yoke seams. Pants are the Pomona Pants from Anna Allen. Finished May 2025. </p>
+  </div>
 
   
 
