@@ -11,6 +11,17 @@ permalink: /art/
 
 
 <div style="text-align: center;">
+    <img src="/assets/img/IMG_2481.jpeg" alt="Pattern is Moby Slipover by PetiteKnit. My most complicated knit yet! Finished March 2025." style="width: 100%; height: auto;" />
+    <p>Hand-knit. Pattern is Moby Slipover by PetiteKnit. My most complicated knit yet! Finished March 2025.</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/img/IMG_2482.jpeg" alt="Detail of my Moby Slipover." style="width: 100%; height: auto;" />
+    <p>Detail of my Moby Slipover.</p>
+  </div>
+
+
+<div style="text-align: center;">
     <img src="/assets/img/IMG_0082.jpeg" alt="Pattern is Olga Sweater by PetiteKnit. Modified with short sleeves and an applied i-cord edging in lime green." style="width: 100%; height: auto;" />
     <p>Hand-knit. Pattern is Olga Sweater by PetiteKnit. Modified with short sleeves and an applied i-cord edging in lime green. Finished January 2025.</p>
   </div>
