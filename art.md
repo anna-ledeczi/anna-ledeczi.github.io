@@ -9,6 +9,15 @@ permalink: /art/
 
 <div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
+<div style="text-align: center;">
+    <img src="/assets/img/IMG_8569.jpeg" alt="My first pair of hard pants: the Leila Makes Cedar Pants for field work. Complete with double fronts and contrast topstitching. Finished August 2025." style="width: 100%; height: auto;" />
+    <p>My first pair of hard pants: the Leila Makes Cedar Pants for field work. Complete with double fronts and contrast topstitching.Finished August 2025.</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/img/IMG_8552.jpeg" alt="Cedar Pants in action." style="width: 100%; height: auto;" />
+    <p>Cedar Pants in action.</p>
+  </div>
 
 <div style="text-align: center;">
     <img src="/assets/img/IMG_2481.jpeg" alt="Pattern is Moby Slipover by PetiteKnit. My most complicated knit yet! Finished March 2025." style="width: 100%; height: auto;" />
