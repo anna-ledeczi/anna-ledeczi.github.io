@@ -11,7 +11,7 @@ permalink: /art/
 
 <div style="text-align: center;">
     <img src="/assets/img/IMG_8569.jpeg" alt="My first pair of hard pants: the Leila Makes Cedar Pants for field work. Complete with double fronts and contrast topstitching. Finished August 2025." style="width: 100%; height: auto;" />
-    <p>My first pair of hard pants: the Leila Makes Cedar Pants for field work. Complete with double fronts and contrast topstitching.Finished August 2025.</p>
+    <p>My first pair of hard pants: the Leila Makes Cedar Pants for field work. Complete with double fronts and contrast topstitching. Finished August 2025.</p>
   </div>
 
   <div style="text-align: center;">
