@@ -4,8 +4,10 @@ title: Gallery
 permalink: /gallery/
 ---
 <div style="text-align: center;">
-<strong>Snow Dome and Lake of the Gods, Olympic National Park, Washington:</strong>
+<strong>Olympic National Park, Washington:</strong>
 </div>
+
+
 
 <div style="text-align: center;">
     <img src="/assets/img/anna2.JPEG" alt="Lake of the Gods, Olympics. Topographic gullies are prominent linear fault strands contained in tectonic mélange." style="width: 100%; height: auto;" />
@@ -13,6 +15,16 @@ permalink: /gallery/
   </div>
 
 <div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+
+  <div style="text-align: center;">
+    <img src="/assets/img/IMG_8472.jpg" alt="Harold points at the South face of Mt. Olympus." style="width: 100%; height: auto;" />
+    <p> Harold points at the South face of Mt. Olympus.</p>
+  </div>
+
+   <div style="text-align: center;">
+    <img src="/assets/img/IMG_3200.jpeg" alt="Sitting on a slickenfibered fault surface." style="width: 100%; height: auto;" />
+    <p> Sitting on a slickenfibered fault surface.</p>
+  </div>
 
   <div style="text-align: center;">
     <img src="/assets/img/IMG_8971.JPG" alt="Helicopter drop off for field work at Lake of the Gods, Olympic National Park." style="width: 100%; height: auto;" />
