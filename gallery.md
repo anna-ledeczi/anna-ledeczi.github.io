@@ -72,7 +72,13 @@ permalink: /gallery/
 <strong>Other assorted photos:</strong>
 </div>
  <div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+     
+  <div style="text-align: center;">
+    <img src="/assets/img/IMG_7355.jpeg" alt="Anna Ledeczi, Tsai-Wei Chen, and Harold Tobin point to pseudotachylyte along an out-of-sequence thrust in the Shimanto Belt, Japan." style="width: 100%; height: auto;" />
+    <p>Anna Ledeczi, Tsai-Wei Chen, and Harold Tobin point to pseudotachylyte along an out-of-sequence thrust in the Shimanto Belt, Japan.</p>
+  </div>
 
+IMG_7355
   <div style="text-align: center;">
     <img src="/assets/img/IMG_2338.jpeg" alt="Anna Ledeczi and Madeleine Lucas in front of the R/V Swift Responder in Astoria, OR." style="width: 100%; height: auto;" />
     <p>Anna Ledeczi and Madeleine Lucas in front of the R/V Swift Responder in Astoria, OR.</p>
@@ -103,24 +109,11 @@ permalink: /gallery/
     <p>Searching for tsunami deposits at Willapa Bay, WA.</p>
   </div> 
 
-   <div style="text-align: center;">
-    <img src="/assets/img/IMG_1156.JPG" alt="The Cascadia 1700 ~M9 tsunami deposit." style="width: 100%; height: auto;" />
-    <p>The Cascadia 1700 ~M9 tsunami deposit.</p>
-  </div> 
 
    <div style="text-align: center;">
     <img src="/assets/img/IMG_5214.JPG" alt="The Cascadia 1700 ~M9 tsunami deposit." style="width: 100%; height: auto;" />
     <p>The Cascadia 1700 ~M9 tsunami deposit.</p>
   </div> 
-
-  <div style="text-align: center;">
-    <img src="/assets/img/IMG_6168.jpeg" alt="Anna Ledeczi and Madeleine Lucas completed a three month internship at the USGS Pacific Coastal and Marine Science Center in Santa Cruz, CA, under the supervision of Janet Watt." style="width: 100%; height: auto;" />
-    <p>Anna Ledeczi and Madeleine Lucas completed a three month internship at the USGS Pacific Coastal and Marine Science Center in Santa Cruz, CA, under the supervision of Janet Watt.</p>
-
-  <div style="text-align: center;">
-    <img src="/assets/img/IMG_7223.jpeg" alt="Anna Ledeczi and Harold Tobin upon Anna's successful completion of her general exam." style="width: 100%; height: auto;" />
-    <p>Anna Ledeczi and Harold Tobin upon Anna's successful completion of her general exam.</p>
-  </div>
 
 </div>
 
