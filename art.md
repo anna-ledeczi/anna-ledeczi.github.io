@@ -10,7 +10,7 @@ permalink: /art/
 <div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
 <div style="text-align: center;">
-    <img src="/assets/img/IMG_8569.jpeg" alt="Sparkle Dress by JessiLous Patterns. Complete with a fully lined bodice, topstitching, and adjustable straps. Made in a Japanese Cotton Twill bought in Tokyo. Finished October 2025." style="width: 100%; height: auto;" />
+    <img src="/assets/img/IMG_3951.jpeg" alt="Sparkle Dress by JessiLous Patterns. Complete with a fully lined bodice, topstitching, and adjustable straps. Made in a Japanese Cotton Twill bought in Tokyo. Finished October 2025." style="width: 100%; height: auto;" />
     <p>Sparkle Dress by JessiLous Patterns. Complete with a fully lined bodice, topstitching, and adjustable straps. Made in a Japanese Cotton Twill bought in Tokyo. Finished October 2025.</p>
   </div>
 
