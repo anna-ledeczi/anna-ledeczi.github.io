@@ -10,6 +10,12 @@ permalink: /art/
 <div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
 <div style="text-align: center;">
+    <img src="/assets/img/IMG_8569.jpeg" alt="Sparkle Dress by JessiLous Patterns. Complete with a fully lined bodice, topstitching, and adjustable straps. Made in a Japanese Cotton Twill bought in Tokyo. Finished October 2025." style="width: 100%; height: auto;" />
+    <p>Sparkle Dress by JessiLous Patterns. Complete with a fully lined bodice, topstitching, and adjustable straps. Made in a Japanese Cotton Twill bought in Tokyo. Finished October 2025.</p>
+  </div>
+
+
+<div style="text-align: center;">
     <img src="/assets/img/IMG_8569.jpeg" alt="My first pair of hard pants: the Leila Makes Cedar Pants for field work. Complete with double fronts and contrast topstitching. Finished August 2025." style="width: 100%; height: auto;" />
     <p>My first pair of hard pants: the Leila Makes Cedar Pants for field work. Complete with double fronts and contrast topstitching. Finished August 2025.</p>
   </div>
