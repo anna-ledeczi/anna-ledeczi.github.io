@@ -122,6 +122,5 @@ permalink: /gallery/
   </div>
 
 
-</div>
 
   
