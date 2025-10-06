@@ -78,7 +78,6 @@ permalink: /gallery/
     <p>Anna Ledeczi, Tsai-Wei Chen, and Harold Tobin point to pseudotachylyte along an out-of-sequence thrust in the Shimanto Belt, Japan.</p>
   </div>
 
-IMG_7355
   <div style="text-align: center;">
     <img src="/assets/img/IMG_2338.jpeg" alt="Anna Ledeczi and Madeleine Lucas in front of the R/V Swift Responder in Astoria, OR." style="width: 100%; height: auto;" />
     <p>Anna Ledeczi and Madeleine Lucas in front of the R/V Swift Responder in Astoria, OR.</p>
