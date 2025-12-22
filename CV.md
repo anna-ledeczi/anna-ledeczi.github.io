@@ -8,4 +8,4 @@ title: CV
  
 <p><a href="https://drive.google.com/file/d/1zCYQDnKU2AZDwbfRkHKIhTws-7x_FXTm/view?usp=sharing" target="_blank">Download the PDF here</a>.</p>
 
-https://drive.google.com/file/d/1zCYQDnKU2AZDwbfRkHKIhTws-7x_FXTm/view?usp=sharing
+
