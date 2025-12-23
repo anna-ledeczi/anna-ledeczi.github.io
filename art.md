@@ -4,10 +4,20 @@ title: Art
 permalink: /art/
 ---
 <div style="text-align: center;">
-<strong>Sewing and Knitting:</strong>
+<strong>I love to sew and knit. Here are some of my recent creations...</strong>
 </div>
 
 <div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+
+<div style="text-align: center;">
+    <img src="/assets/img/IMG_4662.jpg" alt="Pioneer Gloves in green New Zealand Possum Merino wool." style="width: 100%; height: auto;" />
+    <p>Pioneer Gloves (Ravelry pattern) in green New Zealand Possum Merino wool. I made these during AGU 2025.</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/assets/img/IMG_4514.jpg" alt="Sausage dog scarf by devout hand patterns - a double knit scarf made for my mom. Finished November 2025." style="width: 100%; height: auto;" />
+    <p>Sausage dog scarf by devout hand patterns - a double knit scarf made for my mom. Finished November 2025.</p>
+  </div>
 
 <div style="text-align: center;">
     <img src="/assets/img/IMG_3951.jpg" alt="Sparkle Dress by JessiLous Patterns. Complete with a fully lined bodice, topstitching, and adjustable straps. Made in a Japanese Cotton Twill bought in Tokyo. Finished October 2025." style="width: 100%; height: auto;" />
