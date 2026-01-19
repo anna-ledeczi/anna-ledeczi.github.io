@@ -10,6 +10,11 @@ permalink: /art/
 <div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
 <div style="text-align: center;">
+    <img src="/assets/img/SDC10559.JPG" style="width: 100%; height: auto;" />
+    <p> My Upstream Sweater, pattern by ROWS knitwear. This sweater took me 4 months to knit, from September 2025 to January 2026. Cascade 220 yarn in Olive oil.</p>
+  </div>
+
+<div style="text-align: center;">
     <img src="/assets/img/IMG_4662.jpg" alt="Pioneer Gloves in green New Zealand Possum Merino wool." style="width: 100%; height: auto;" />
     <p>Pioneer Gloves (Ravelry pattern) in green New Zealand Possum Merino wool. I made these during AGU 2025.</p>
   </div>
