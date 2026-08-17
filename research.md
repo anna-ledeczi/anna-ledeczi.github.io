@@ -24,7 +24,7 @@ Related work:
 
 
 ### Fault databases and community resources 
-I've worked with collaborators to turn my identified faults into 2D and 3D geometries usable for the community. I work with the Cascadia Earthquake Science Center, including on the Community [Fault Model Working Group](https://cascadiaquakes.org/cfm/).  
+I've worked with collaborators to turn my identified faults into 2D and 3D geometries usable for the community. I work with the Cascadia Earthquake Science Center, including on the [Community Fault Model Working Group](https://cascadiaquakes.org/cfm/).  
 
 Related work: 
 - Lucas, M.C., <strong>Ledeczi, A.M.</strong>, Dunham, A., and Watt, J.T., 2026, Simplified frontal thrust splay fault geometries at the Cascadia Subduction Zone mapped using multi-channel seismic (MCS) reflection data, U.S. Geological Survey data release, DOI:[10.5066/P138BZRA](https://doi.org/10.5066/P138BZRA)
