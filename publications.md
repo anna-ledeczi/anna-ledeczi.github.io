@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-<p><a href="https://drive.google.com/file/d/1zCYQDnKU2AZDwbfRkHKIhTws-7x_FXTm/view?usp=sharing" target="_blank">Download my CV here</a>.</p>
+<p><a href="https://drive.google.com/file/d/1zCtH8VQ47iAc90Op0lylyHseSr0p6ysK/view?usp=sharing" target="_blank">Download my CV here</a>.</p>
 
 See my [Google Scholar](https://scholar.google.com/citations?user=F_nHbTwAAAAJ&hl=en&oi=ao) and [ResearchGate](https://www.researchgate.net/profile/Anna-Ledeczi/research).
 
@@ -46,5 +46,5 @@ See my [Google Scholar](https://scholar.google.com/citations?user=F_nHbTwAAAAJ&h
 
 
 
-<iframe src="https://drive.google.com/file/d/1zCYQDnKU2AZDwbfRkHKIhTws-7x_FXTm/preview" width="100%" height="800px" allow="autoplay"></iframe>
+<iframe src="ttps://drive.google.com/file/d/1zCtH8VQ47iAc90Op0lylyHseSr0p6ysK/preview" width="100%" height="800px" allow="autoplay"></iframe>
  
