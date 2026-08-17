@@ -8,7 +8,7 @@ cover-img: assets/img/DSC02594.jpg
 My research is focused on the architecture and evolution of the accretionary wedges, including the megathrust fault and splay faults branching from it, and their connection to megathrust earthquakes. To address these problems holistically, I combine **marine active-source seismology** offshore and **field geology** onshore to understand how seismogenic processes operate in subduction zones.
 
 ### The Alaska subduction zone
-- In my postdoctoral work, I am using bathymetry and seismic reflection data to analyze the structure and activity of splay faults in the 1964 Mw9.2 rupture area.
+In my postdoctoral work, I am using bathymetry and seismic reflection data to analyze the structure and activity of splay faults in the 1964 Mw9.2 rupture area.
 
   
 ### Fault activity at the Cascadia subduction zone
