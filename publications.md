@@ -10,25 +10,25 @@ See my [Google Scholar](https://scholar.google.com/citations?user=F_nHbTwAAAAJ&h
 ## Peer-reviewed publications
 [16] Chen, T., Tobin, H.J., and <strong>Ledeczi, A.M.</strong> Heterogeneous elastic properties of subduction fault zones: Laboratory insights from a Cascadia megathrust analog. (In review at JGR: Solid Earth).
 
-[15] <strong>Ledeczi, A.M.<\strong>, Tobin, H.J., Miller, N.C., Carbotte, S.M., Han, S., and Boston, B. Evidence for a sediment-hosted plate boundary fault at the Cascadia subduction zone. (In review at Geochemistry, Geophysics, Geosystems).
+[15] <strong>Ledeczi, A.M.</strong>, Tobin, H.J., Miller, N.C., Carbotte, S.M., Han, S., and Boston, B. Evidence for a sediment-hosted plate boundary fault at the Cascadia subduction zone. (In review at Geochemistry, Geophysics, Geosystems).
 
-[14] Dunham, A., Wirth, E., Grant, A., Frankel, A., Lucas, M.C., <strong>Ledeczi, A.M.<\strong>, Tobin, H.J., Watt, J.T., Schmidt, D., Kim, J., and Biemiller, J. 3D broadband simulations of Cascadia Megathrust Earthquakes: full-margin scenarios incorporating variable magnitudes and updip splay faulting. (In review at BSSA). 
+[14] Dunham, A., Wirth, E., Grant, A., Frankel, A., Lucas, M.C., <strong>Ledeczi, A.M.</strong>, Tobin, H.J., Watt, J.T., Schmidt, D., Kim, J., and Biemiller, J. 3D broadband simulations of Cascadia Megathrust Earthquakes: full-margin scenarios incorporating variable magnitudes and updip splay faulting. (In review at BSSA). 
 
-[13] Fildes, R.A., Amos, C., Roland, E.C., Streig, A.R., Bennett, S.E.K., Hatem, A., <strong>Ledeczi, A.M.<\strong>, Meigs, A.J., Styron, R., Tobin, H.J. A 2-D and 3-D Community Fault Model for the Cascadia Subduction Zone. CRESCENT CFM Version 1.0. (In review).
+[13] Fildes, R.A., Amos, C., Roland, E.C., Streig, A.R., Bennett, S.E.K., Hatem, A., <strong>Ledeczi, A.M.</strong>, Meigs, A.J., Styron, R., Tobin, H.J. A 2-D and 3-D Community Fault Model for the Cascadia Subduction Zone. CRESCENT CFM Version 1.0. (In review).
 
-[12]  Jiang, D., Han, S., Carbotte, S., Boston, B., <strong>Ledeczi, A.M.<\strong>, and Tobin, H.J. Faulting in the Cascadia outer wedge constrained by CASIE21 seismic data and high-resolution bathymetry. (In review at JGR: Solid Earth). 
+[12]  Jiang, D., Han, S., Carbotte, S., Boston, B., <strong>Ledeczi, A.M.</strong>, and Tobin, H.J. Faulting in the Cascadia outer wedge constrained by CASIE21 seismic data and high-resolution bathymetry. (In review at JGR: Solid Earth). 
 
-[11] <strong>Ledeczi, A.M.<\strong>, Tobin, H.J., Condit, C.B., Chen, T-W., Lindquist, P.C., García-Lasanta, C., Housen, B., and Mulcahy, S.R. Pressure solution accommodates negligible volume loss in the subduction seismogenic zone. (In review at EPSL). 
+[11] <strong>Ledeczi, A.M.</strong>, Tobin, H.J., Condit, C.B., Chen, T-W., Lindquist, P.C., García-Lasanta, C., Housen, B., and Mulcahy, S.R. Pressure solution accommodates negligible volume loss in the subduction seismogenic zone. (In review at EPSL). 
 
-[10] Watt, J.T, <strong>Ledeczi, A.M.<\strong>, Lucas, M.C., and Tobin, H.J. Quaternary faults offshore the U.S. Cascadia subduction zone. USGS Data Release. DOI: 10.5066/P14HJMM9 (In review with USGS).
+[10] Watt, J.T, <strong>Ledeczi, A.M.</strong>, Lucas, M.C., and Tobin, H.J. Quaternary faults offshore the U.S. Cascadia subduction zone. USGS Data Release. DOI: 10.5066/P14HJMM9 (In review with USGS).
 
-[9] Lucas, M.C., Beeson, J., Watt, J.T., <strong>Ledeczi, A.M.<\strong>, Orange, D., Tobin, H.J. Distributed shearing accommodates oblique convergence at the Cascadia Subduction Zone (In review at Geochemistry, Geophysics, Geosystems).
+[9] Lucas, M.C., Beeson, J., Watt, J.T., <strong>Ledeczi, A.M.</strong>, Orange, D., Tobin, H.J. Distributed shearing accommodates oblique convergence at the Cascadia Subduction Zone (In review at Geochemistry, Geophysics, Geosystems).
 
 [8] Sahakian, V. J., Meigs, A.J., Clifford, A., Fasola, S., Melgar, D., Thomas, A. M., Share, P.-E., Tobin, H., Melbourne, T., Elizabeth, J., et al. (2026). The Cascadia Region Earthquake Science Center (CRESCENT): Regional Science in a Resilience Context. Seismological Research Letters. DOI: 10.1785/0220250423.
 
 [7] Melgar, D., Thomas, A. M. , Sahakian, V., Share, P.-E. , Meigs, A. , Tobin, H., Staisch, L., Melbourne, T., Elizabeth, J. , Ajala, R., et al. (2026). The Cascadia Region Earthquake Science Center (CRESCENT): Advancing Understanding of Cascadia’s Earthquake Hazards. Seismological Research Letters. DOI: 10.1785/0220250318
 
-[6] Lucas, M.C., <strong>Ledeczi, A.M.<\strong>, Dunham, A., and Watt, J.T., 2026, Simplified frontal thrust splay fault geometries at the Cascadia Subduction Zone mapped using multi-channel seismic (MCS) reflection data, U.S. Geological Survey data release, https://doi.org/10.5066/P138BZRA 
+[6] Lucas, M.C., <strong>Ledeczi, A.M.</strong>, Dunham, A., and Watt, J.T., 2026, Simplified frontal thrust splay fault geometries at the Cascadia Subduction Zone mapped using multi-channel seismic (MCS) reflection data, U.S. Geological Survey data release, https://doi.org/10.5066/P138BZRA 
 
 [5] <strong>Ledeczi, A.M.</strong>, Ekström, G., & Taylor, B. (2025). Earthquake relocations illuminate tectonics along the Bismarck Sea Seismic Lineation, Papua New Guinea. Seismica, 4(2). DOI: [10.26443/seismica.v4i2.2041](https://seismica.library.mcgill.ca/article/view/2041)
 
