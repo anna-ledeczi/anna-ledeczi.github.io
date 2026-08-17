@@ -24,11 +24,11 @@ See my [Google Scholar](https://scholar.google.com/citations?user=F_nHbTwAAAAJ&h
 
 [9] Lucas, M.C., Beeson, J., Watt, J.T., <strong>Ledeczi, A.M.</strong>, Orange, D., Tobin, H.J. Distributed shearing accommodates oblique convergence at the Cascadia Subduction Zone (In review at Geochemistry, Geophysics, Geosystems).
 
-[8] Sahakian, V. J., Meigs, A.J., Clifford, A., Fasola, S., Melgar, D., Thomas, A. M., Share, P.-E., Tobin, H., Melbourne, T., Elizabeth, J., et al. (2026). The Cascadia Region Earthquake Science Center (CRESCENT): Regional Science in a Resilience Context. Seismological Research Letters. DOI: 10.1785/0220250423.
+[8] Sahakian, V. J., Meigs, A.J., Clifford, A., Fasola, S., Melgar, D., Thomas, A. M., Share, P.-E., Tobin, H., Melbourne, T., Elizabeth, J., et al. (2026). The Cascadia Region Earthquake Science Center (CRESCENT): Regional Science in a Resilience Context. Seismological Research Letters. DOI: [10.1785/0220250423](https://urldefense.com/v3/__https:/doi.org/10.1785/0220250423__;!!K-Hz7m0Vt54!hoBRIBcdaipEi5oBSlwYXwGfyhZhwH-18QwRcVmJIQPrznbfBoxlmVfA2KLpyo6MSoizv6gBVGFMlzY$)
 
-[7] Melgar, D., Thomas, A. M. , Sahakian, V., Share, P.-E. , Meigs, A. , Tobin, H., Staisch, L., Melbourne, T., Elizabeth, J. , Ajala, R., et al. (2026). The Cascadia Region Earthquake Science Center (CRESCENT): Advancing Understanding of Cascadia’s Earthquake Hazards. Seismological Research Letters. DOI: 10.1785/0220250318
+[7] Melgar, D., Thomas, A. M. , Sahakian, V., Share, P.-E. , Meigs, A. , Tobin, H., Staisch, L., Melbourne, T., Elizabeth, J. , Ajala, R., et al. (2026). The Cascadia Region Earthquake Science Center (CRESCENT): Advancing Understanding of Cascadia’s Earthquake Hazards. Seismological Research Letters. DOI: [10.1785/0220250318](https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220250318/733743/The-Cascadia-Region-Earthquake-Science-Center)
 
-[6] Lucas, M.C., <strong>Ledeczi, A.M.</strong>, Dunham, A., and Watt, J.T., 2026, Simplified frontal thrust splay fault geometries at the Cascadia Subduction Zone mapped using multi-channel seismic (MCS) reflection data, U.S. Geological Survey data release, https://doi.org/10.5066/P138BZRA 
+[6] Lucas, M.C., <strong>Ledeczi, A.M.</strong>, Dunham, A., and Watt, J.T., 2026, Simplified frontal thrust splay fault geometries at the Cascadia Subduction Zone mapped using multi-channel seismic (MCS) reflection data, U.S. Geological Survey data release, DOI: [10.5066/P138BZRA](https://doi.org/10.5066/P138BZRA)
 
 [5] <strong>Ledeczi, A.M.</strong>, Ekström, G., & Taylor, B. (2025). Earthquake relocations illuminate tectonics along the Bismarck Sea Seismic Lineation, Papua New Guinea. Seismica, 4(2). DOI: [10.26443/seismica.v4i2.2041](https://seismica.library.mcgill.ca/article/view/2041)
 
