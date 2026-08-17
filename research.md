@@ -19,6 +19,7 @@ Related work:
 - <strong>Ledeczi, A.M.</strong>, Lucas, M.C., Tobin, H., Watt, J., and Miller, N. (2024). Late Quaternary surface displacements on accretionary wedge splay faults in the Cascadia Subduction Zone: Implications for megathrust rupture. Seismica, 2(4). DOI: [10.26443/seismica.v2i4.1158](https://seismica.library.mcgill.ca/article/view/1158)
 - Lucas, M.C., <strong>Ledeczi, A.M.</strong>, Tobin H.J., Carbotte, S.M., Watt, J.T., Han, S., Boston, B., and Jiang, D. (2025). No evidence for an active margin-spanning megasplay fault at the Cascadia Subduction Zone. Seismica, 2(4). DOI: [10.26443/seismica.v2i4.1477](https://seismica.library.mcgill.ca/article/view/1477)
 -  Biemiller, J., Gabriel, A.-A., Staisch, L., Ulrich, U., Dunham, A., Wirth, E., Watt, J., Lucas, M.C., and <strong>Ledeczi, A.M.</strong> (2025) Structural controls on splay fault rupture dynamics during Cascadia megathrust earthquakes AGU Advances. DOI: [10.1029/2025AV001812](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025AV001812)
+-  <strong>Ledeczi, A.M.</strong>, Tobin, H.J., Miller, N.C., Carbotte, S.M., Han, S., and Boston, B. Evidence for a sediment-hosted plate boundary fault at the Cascadia subduction zone. (In review at Geochemistry, Geophysics, Geosystems).
 
 
 
@@ -28,6 +29,7 @@ I've worked with collaborators to turn my identified faults into 2D and 3D geome
 Related work: 
 - Lucas, M.C., <strong>Ledeczi, A.M.</strong>, Dunham, A., and Watt, J.T., 2026, Simplified frontal thrust splay fault geometries at the Cascadia Subduction Zone mapped using multi-channel seismic (MCS) reflection data, U.S. Geological Survey data release, DOI:[10.5066/P138BZRA](https://doi.org/10.5066/P138BZRA)
 - Watt, J.T, <strong>Ledeczi, A.M.</strong>, Lucas, M.C., and Tobin, H.J. Quaternary faults offshore the U.S. Cascadia subduction zone. USGS Data Release. DOI: 10.5066/P14HJMM9 (In review with USGS).
+- Fildes, R.A., Amos, C., Roland, E.C., Streig, A.R., Bennett, S.E.K., Hatem, A., <strong>Ledeczi, A.M.</strong>, Meigs, A.J., Styron, R., Tobin, H.J. A 2-D and 3-D Community Fault Model for the Cascadia Subduction Zone. CRESCENT CFM Version 1.0. (In review).
 - Melgar, D., Thomas, A. M. , Sahakian, V., Share, P.-E. , Meigs, A. , Tobin, H., Staisch, L., Melbourne, T., Elizabeth, J. , Ajala, R., et al. (2026). The Cascadia Region Earthquake Science Center (CRESCENT): Advancing Understanding of Cascadia’s Earthquake Hazards. Seismological Research Letters. DOI: [10.1785/0220250318](https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220250318/733743/The-Cascadia-Region-Earthquake-Science-Center)
 - Sahakian, V. J., Meigs, A.J., Clifford, A., Fasola, S., Melgar, D., Thomas, A. M., Share, P.-E., Tobin, H., Melbourne, T., Elizabeth, J., et al. (2026). The Cascadia Region Earthquake Science Center (CRESCENT): Regional Science in a Resilience Context. Seismological Research Letters. DOI: [10.1785/0220250423](https://urldefense.com/v3/__https:/doi.org/10.1785/0220250423__;!!K-Hz7m0Vt54!hoBRIBcdaipEi5oBSlwYXwGfyhZhwH-18QwRcVmJIQPrznbfBoxlmVfA2KLpyo6MSoizv6gBVGFMlzY$)
 
