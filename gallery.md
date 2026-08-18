@@ -3,10 +3,6 @@ layout: page
 title: Gallery 
 permalink: /gallery/
 ---
-<div style="text-align: center;">
-<strong>Olympic National Park, Washington:</strong>
-</div>
-
 
 
 <div style="text-align: center;">
@@ -61,15 +57,14 @@ permalink: /gallery/
   </div>
 
   <div style="text-align: center;">
-    <img src="/assets/img/IMG_1038.jpeg" alt="Creating a stucture from motion model of a key outcrop, Lake of the Gods." style="width: 100%; height: auto;" />
-    <p>Creating a stucture from motion model of a key outcrop, Lake of the Gods.</p>
+    <img src="/assets/img/gsab_v138n3-4_cover.png" alt="Creating a stucture from motion model of a key outcrop, Lake of the Gods." style="width: 100%; height: auto;" />
+    <p>Creating a stucture from motion model of a key outcrop, Lake of the Gods. This work made the cover of GSA Bulletin. </p>
   </div>
 
 </div>
 
 
- <div style="text-align: center;">
-<strong>Other assorted photos:</strong>
+
 </div>
  <div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
      
@@ -115,11 +110,6 @@ permalink: /gallery/
   </div> 
 
 </div>
-
-  <div style="text-align: center;">
-    <img src="/assets/img/IMG_2621.jpeg" alt="Anna Ledeczi and Madeleine Lucas supervising collection of chirp data aboard the R/V Swift Responder." style="width: 100%; height: auto;" />
-    <p>Anna Ledeczi and Madeleine Lucas supervising collection of chirp data aboard the R/V Swift Responder.</p>
-  </div>
 
 
 
