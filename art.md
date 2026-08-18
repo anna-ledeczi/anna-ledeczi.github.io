@@ -23,7 +23,7 @@ I love to sew and knit. Here are some of my recent creations.
 
 
 <div style="text-align: center;">
-    <img src="/assets/img/aventine.jpg" style="width: 100%; height: auto;" />
+    <img src="/assets/img/aventine_cropped.jpg" style="width: 100%; height: auto;" />
     <p> Pattern is the Aventine tank. Knit in undine DK linen/cotton blend. Finished in August 2026. </p>
   </div>
 
