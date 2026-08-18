@@ -12,6 +12,17 @@ permalink: /gallery/
 
 <div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
+
+  <div style="text-align: center;">
+    <img src="/assets/img/graduation.jpg" style="width: 100%; height: auto;" />
+    <p> 2026 UW ESS Graduation Ceremony</p>
+  </div>
+
+   <div style="text-align: center;">
+    <img src="/assets/img/graduation_2.jpeg" style="width: 100%; height: auto;" />
+    <p> 2026 UW ESS PhDs</p>
+  </div>
+
   <div style="text-align: center;">
     <img src="/assets/img/IMG_8472.jpg" alt="Harold points at the South face of Mt. Olympus." style="width: 100%; height: auto;" />
     <p> Harold points at the South face of Mt. Olympus.</p>
@@ -65,7 +76,6 @@ permalink: /gallery/
 
 
 
-</div>
  <div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
      
   <div style="text-align: center;">
