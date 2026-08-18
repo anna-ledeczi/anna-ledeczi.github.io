@@ -11,12 +11,62 @@ I love to sew and knit. Here are some of my recent creations.
 
 
 <div style="text-align: center;">
-    <img src="/assets/img/socks2.jpeg style="width: 100%; height: auto;" />
+    <img src="/assets/img/hardolquilt.jpg" style="width: 100%; height: auto;" />
+    <p>I made my first-ever quilt as a graduation present for Harold. This was inspired by the [Washington DNR's Mt. Olympus poster] (https://wa100.dnr.wa.gov/assets/province_posters/olympic_peninsula.pdf). The quilt is made up of over 1,500 1-inch pieces and ended up taking me over 60 hours to complete. </p>
+  </div>
+
+
+<div style="text-align: center;">
+    <img src="/assets/img/fbf.jpg style="width: 100%; height: auto;" />
+    <p> I stitched a fault-bend fold onto the pocket of these pants.</p>
+  </div>
+
+
+<div style="text-align: center;">
+    <img src="/assets/img/aventine.jpg style="width: 100%; height: auto;" />
+    <p> Pattern is the Aventine tank. Knit in undine DK linen/cotton blend. Finished in August 2026. </p>
+  </div>
+
+<div style="text-align: center;">
+    <img src="/assets/img/stripeoverload.jpg" style="width: 100%; height: auto;" />
+    <p>Pattern is the Stripe overload polo tee. Knit in cotton yarn. Finished in July 2026. </p>
+  </div>
+
+
+
+<div style="text-align: center;">
+    <img src="/assets/img/sailortop.jpg style="width: 100%; height: auto;" />
+    <p> Pattern is the Hey Sailor top. Knit in knitting for olive's cotton merino. Finished in April 2026. </p>
+  </div>
+
+<div style="text-align: center;">
+    <img src="/assets/img/sashiko.jpg" style="width: 100%; height: auto;" />
+    <p>I learned sashiko to repair a very worn up pair of jeans. </p>
+  </div>
+
+
+
+
+  <div style="text-align: center;">
+    <img src="/assets/img/linetop.jpg style="width: 100%; height: auto;" />
+    <p> Pattern is the Line top. Knit in knitting for olive's pure silk. Finished in June 2026. </p>
+  </div>
+
+<div style="text-align: center;">
+    <img src="/assets/img/graddress.jpg" style="width: 100%; height: auto;" />
+    <p>I sewed this green and brown dress for graduation. Finished May 2026. </p>
+  </div>
+
+
+
+
+<div style="text-align: center;">
+    <img src="/assets/img/socks2.jpg style="width: 100%; height: auto;" />
     <p> I went through a sock phase this winter.</p>
   </div>
 
 <div style="text-align: center;">
-    <img src="/assets/img/socks.jpeg" style="width: 100%; height: auto;" />
+    <img src="/assets/img/socks.jpg" style="width: 100%; height: auto;" />
     <p>Sock phase part 2.</p>
   </div>
 
