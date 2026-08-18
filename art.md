@@ -4,10 +4,25 @@ title: Art
 permalink: /art/
 ---
 <div style="text-align: center;">
-<strong>I love to sew and knit. Here are some of my recent creations...</strong>
+I love to sew and knit. Here are some of my recent creations.
 </div>
 
 <div class="gallery" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+
+
+<div style="text-align: center;">
+    <img src="/assets/img/socks2.jpeg style="width: 100%; height: auto;" />
+    <p> I went through a sock phase this winter.</p>
+  </div>
+
+<div style="text-align: center;">
+    <img src="/assets/img/socks.jpeg" style="width: 100%; height: auto;" />
+    <p>Sock phase part 2.</p>
+  </div>
+
+
+
+
 
 <div style="text-align: center;">
     <img src="/assets/img/SDC10559.JPG" style="width: 100%; height: auto;" />
@@ -67,10 +82,6 @@ permalink: /art/
     <p>Pattern is the Ilford Jacket from Friday Pattern Company. Made in blue cotton twill with lime green pockets. Finished November 2024.</p>
   </div>
 
-  <div style="text-align: center;">
-    <img src="/assets/img/IMG_1958.jpeg" alt="Pajamas set made from Lightweight Cotton Lawn from Blackbird Fabrics. Top is the Olya Shirt from Paper Theory. I added piping to the sleeve, back, and front yoke seams. Pants are the Pomona Pants from Anna Allen." style="width: 100%; height: auto;" />
-    <p>Pajamas set made from Lightweight Cotton Lawn from Blackbird Fabrics. Top is the Olya Shirt from Paper Theory. I added piping to the sleeve, back, and front yoke seams. Pants are the Pomona Pants from Anna Allen. Finished May 2025. </p>
-  </div>
 
   <div style="text-align: center;">
     <img src="/assets/img/IMG_1380.jpg" alt="Men's patchwork button-up made from other men's shirts thrifted at Goodwill. Pattern is the Common Stitch Button Up." style="width: 100%; height: auto;" />
