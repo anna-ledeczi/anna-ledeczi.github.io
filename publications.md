@@ -41,8 +41,8 @@ See my [Google Scholar](https://scholar.google.com/citations?user=F_nHbTwAAAAJ&h
 [1]  <strong>Ledeczi, A.M.</strong>, Lucas, M.C., Tobin, H., Watt, J., and Miller, N. (2024). Late Quaternary surface displacements on accretionary wedge splay faults in the Cascadia Subduction Zone: Implications for megathrust rupture. Seismica, 2(4). DOI: [10.26443/seismica.v2i4.1158](https://seismica.library.mcgill.ca/article/view/1158)
  
 ## Non-peer-reviewed publications
-- Krauss, Z., <strong>Ledeczi, A.M.</strong>, Shuck, B., & Wei, M. (2026). Offshore Observations Special Interest Group Topical Workshop Report, October 27, 2025. CRESCENT Open Documents Library. https://doi.org/10.5281/zenodo.20496895
-- <strong>Ledeczi, A.M.</strong>, Miller, N., Tobin, H., & Condit, C. (2026). Improving Offshore 3D Splay Fault Geometries and Slip Histories using Seismic Data Reprocessing and Structural Modeling. CRESCENT Open Documents Library. https://doi.org/10.5281/zenodo.20512959
+- Krauss, Z., <strong>Ledeczi, A.M.</strong>, Shuck, B., & Wei, M. (2026). Offshore Observations Special Interest Group Topical Workshop Report, October 27, 2025. CRESCENT Open Documents Library. DOI: [10.5281/zenodo.20496895](https://doi.org/10.5281/zenodo.20496895)
+- <strong>Ledeczi, A.M.</strong>, Miller, N., Tobin, H., & Condit, C. (2026). Improving Offshore 3D Splay Fault Geometries and Slip Histories using Seismic Data Reprocessing and Structural Modeling. CRESCENT Open Documents Library. DOI: [10.5281/zenodo.20512959](https://doi.org/10.5281/zenodo.20512959)
 
 
 
