@@ -11,7 +11,7 @@ I love to sew and knit. Here are some of my recent creations.
 
 
 <div style="text-align: center;">
-    <img src="/assets/img/haroldquilt.jpg" style="width: 100%; height: auto;" />
+    <img src="/assets/img/haroldquilt_cropped.jpg" style="width: 100%; height: auto;" />
     <p>I made my first-ever quilt as a graduation present for Harold. This was inspired by the Washington DNR's Mt. Olympus poster (https://wa100.dnr.wa.gov/assets/province_posters/olympic_peninsula.pdf). The quilt is made up of over 1,500 1-inch pieces and ended up taking me over 60 hours to complete. </p>
   </div>
 
@@ -61,7 +61,7 @@ I love to sew and knit. Here are some of my recent creations.
 
 
 <div style="text-align: center;">
-    <img src="/assets/img/socks2.jpg" style="width: 100%; height: auto;" />
+    <img src="/assets/img/socks2_cropped.jpg" style="width: 100%; height: auto;" />
     <p> I went through a sock phase this winter.</p>
   </div>
 
