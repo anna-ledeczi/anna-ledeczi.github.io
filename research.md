@@ -40,7 +40,7 @@ While geophysical tools have allowed us to probe active accretionary wedges, dir
 
 Related work: 
 - <strong>Ledeczi, A.M.</strong>, Tobin, H.J., Chen, T., and Mulcahy, S., and Condit, C. (2025). Structure and properties of the Cascadia plate interface: Evidence from a newly described exhumed paleomegathrust in the Olympic Subduction Complex. GSA Bulletin. DOI: [10.1130/B38335.1](https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38335.1/661921/Structure-and-properties-of-the-Cascadia-plate)
-- <strong>Ledeczi, A.M.</strong>, Tobin, H.J., Condit, C.B., Chen, T-W., Lindquist, P.C., García-Lasanta, C., Housen, B., and Mulcahy, S.R. Pressure solution accommodates negligible volume loss in the subduction seismogenic zone. (In review at EPSL). 
+- <strong>Ledeczi, A.M.</strong>, Tobin, H.J., Condit, C.B., Chen, T-W., Lindquist, P.C., García-Lasanta, C., Housen, B., and Mulcahy, S.R. (2026). Off-fault mélange formation accommodates only a small fraction of strain in the subduction seismogenic zone. (2026) Earth and Planetary Science Letters. DOI: [10.1016/j.epsl.2026.120341](https://doi.org/10.1016/j.epsl.2026.120341)
   
 ### Other projects
 - <strong>Ledeczi, A.M.</strong>, Ekström, G., & Taylor, B. (2025). Earthquake relocations illuminate tectonics along the Bismarck Sea Seismic Lineation, Papua New Guinea. Seismica, 4(2). DOI: [10.26443/seismica.v4i2.2041](https://seismica.library.mcgill.ca/article/view/2041)
