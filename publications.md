@@ -20,8 +20,8 @@ See my [Google Scholar](https://scholar.google.com/citations?user=F_nHbTwAAAAJ&h
 
 [11] Lucas, M.C., Beeson, J., Watt, J.T., <strong>Ledeczi, A.M.</strong>, Orange, D., Tobin, H.J. Distributed shearing accommodates oblique convergence at the Cascadia Subduction Zone (In review at Geochemistry, Geophysics, Geosystems).
 
-[10] Dunham, A., Wirth, E., Grant, A., Frankel, A., Lucas, M.C., <strong>Ledeczi, A.M.</strong>, Tobin, H.J., Watt, J.T., Schmidt, D., Kim, J., and Biemiller, J. 3D broadband simulations of Cascadia Megathrust Earthquakes: full-margin scenarios incorporating variable magnitudes and updip splay faulting. (In press at BSSA). 
-
+[10] Dunham, A., Wirth, E., Grant, A., Frankel, A., Lucas, M.C., <strong>Ledeczi, A.M.</strong>, Tobin, H.J., Watt, J.T., Schmidt, D., Kim, J., and Biemiller, J. (2026). 3D broadband simulations of Cascadia Megathrust Earthquakes: full-margin scenarios incorporating variable magnitudes and updip splay faulting. BSSA. DOI: [10.1785/0120260148](https://doi.org/10.1785/0120260148)
+ 
 [9] <strong>Ledeczi, A.M.</strong>, Tobin, H.J., Condit, C.B., Chen, T-W., Lindquist, P.C., García-Lasanta, C., Housen, B., and Mulcahy, S.R. (2026). Off-fault mélange formation accommodates only a small fraction of strain in the subduction seismogenic zone. (2026) Earth and Planetary Science Letters. DOI: [10.1016/j.epsl.2026.120341](https://doi.org/10.1016/j.epsl.2026.120341)
 
 [8] Sahakian, V. J., Meigs, A.J., Clifford, A., Fasola, S., Melgar, D., Thomas, A. M., Share, P.-E., Tobin, H., Melbourne, T., Elizabeth, J., et al. (2026). The Cascadia Region Earthquake Science Center (CRESCENT): Regional Science in a Resilience Context. Seismological Research Letters. DOI: [10.1785/0220250423](https://urldefense.com/v3/__https:/doi.org/10.1785/0220250423__;!!K-Hz7m0Vt54!hoBRIBcdaipEi5oBSlwYXwGfyhZhwH-18QwRcVmJIQPrznbfBoxlmVfA2KLpyo6MSoizv6gBVGFMlzY$)
