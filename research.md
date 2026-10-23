@@ -18,8 +18,9 @@ I use seismic reflection data to understand active splay faulting and consider t
 Related work: 
 - <strong>Ledeczi, A.M.</strong>, Lucas, M.C., Tobin, H., Watt, J., and Miller, N. (2024). Late Quaternary surface displacements on accretionary wedge splay faults in the Cascadia Subduction Zone: Implications for megathrust rupture. Seismica, 2(4). DOI: [10.26443/seismica.v2i4.1158](https://seismica.library.mcgill.ca/article/view/1158)
 - Lucas, M.C., <strong>Ledeczi, A.M.</strong>, Tobin H.J., Carbotte, S.M., Watt, J.T., Han, S., Boston, B., and Jiang, D. (2025). No evidence for an active margin-spanning megasplay fault at the Cascadia Subduction Zone. Seismica, 2(4). DOI: [10.26443/seismica.v2i4.1477](https://seismica.library.mcgill.ca/article/view/1477)
--  Biemiller, J., Gabriel, A.-A., Staisch, L., Ulrich, U., Dunham, A., Wirth, E., Watt, J., Lucas, M.C., and <strong>Ledeczi, A.M.</strong> (2025) Structural controls on splay fault rupture dynamics during Cascadia megathrust earthquakes AGU Advances. DOI: [10.1029/2025AV001812](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025AV001812)
--  <strong>Ledeczi, A.M.</strong>, Tobin, H.J., Miller, N.C., Carbotte, S.M., Han, S., and Boston, B. Evidence for a sediment-hosted plate boundary fault at the Cascadia subduction zone. (In review at Geochemistry, Geophysics, Geosystems).
+-  <strong>Ledeczi, A.M.</strong>, Tobin, H.J., Miller, N.C., Carbotte, S.M., Han, S., and Boston, B. Evidence for a sediment-hosted plate boundary fault at the Cascadia subduction zone. (In revision at Geochemistry, Geophysics, Geosystems).
+-   Biemiller, J., Gabriel, A.-A., Staisch, L., Ulrich, U., Dunham, A., Wirth, E., Watt, J., Lucas, M.C., and <strong>Ledeczi, A.M.</strong> (2025) Structural controls on splay fault rupture dynamics during Cascadia megathrust earthquakes AGU Advances. DOI: [10.1029/2025AV001812](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025AV001812)
+-  Dunham, A., Wirth, E., Grant, A., Frankel, A., Lucas, M.C., <strong>Ledeczi, A.M.</strong>, Tobin, H.J., Watt, J.T., Schmidt, D., Kim, J., and Biemiller, J. (2026). 3D broadband simulations of Cascadia Megathrust Earthquakes: full-margin scenarios incorporating variable magnitudes and updip splay faulting. BSSA. DOI: https://doi.org/10.1785/0120260148 
 
 
 
